@@ -38,7 +38,7 @@ Changes not staged for commit:
 
 ```
 
-## Exercise 2
+## Exercise two
 
 
 ```bash 
